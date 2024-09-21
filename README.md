@@ -2,7 +2,7 @@
 21919A VEX program for red with win point
 
 ## Location in Field
-![redleft](https://github.com/user-attachments/assets/1e2bc0d1-745b-4b46-8075-5dc53785fb00)
+![blueright](https://github.com/user-attachments/assets/a6e71d4e-9467-44f8-95da-c22a728d0760)
 
 ## Autonomous Path
 ![autonomous](svgs/autonomous.svg?)
