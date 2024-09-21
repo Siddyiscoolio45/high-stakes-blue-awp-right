@@ -1,4 +1,4 @@
-# high-stakes-red-win-point
+# high-stakes-blue-awp-right
 This is VEX team 21919A's program for the autonomous win point on the right side of the blue alliance side of the field. The location of this quadrant is highlighted below in the image with a picture of the field. Below that is a diagram of the autonomous path that we create in advance to display the locations our robot will be in due to our PID programming that we have implemented in our code.
 
 ## Organization of the Repository
