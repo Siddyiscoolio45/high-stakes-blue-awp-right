@@ -12,7 +12,7 @@ def driver_function():
 
 def autonomous_function():
     # Reset odometry to the starting autonomous position
-    odometry.reset(PositionWithHeading(1500, 600, -90))
+    odometry.reset(PositionWithHeading(1500, 600, 90))
 
     # Then try resetting it to GPS if GPS sensor is installed and reports high quality
     reset_odometry_to_gps()
